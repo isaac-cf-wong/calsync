@@ -1,18 +1,6 @@
-<!--
-Update `package_name` to the name of the package.
+# Contributing to calsync
 
-Remove the comment when this is done.
--->
-
-# Contributing to package name
-
-<!--
-Update `package_name` to the name of the package.
-
-Remove the comment when this is done.
--->
-
-🎉 Thank you for your interest in contributing to `package_name`!
+🎉 Thank you for your interest in contributing to `calsync`!
 Your ideas, fixes, and improvements are welcome and appreciated.
 
 Whether you’re fixing a typo, reporting a bug, suggesting a feature, or submitting a pull request—this guide will help you get started.
@@ -21,29 +9,13 @@ Whether you’re fixing a typo, reporting a bug, suggesting a feature, or submit
 
 1. Open an Issue
 
-<!--
-- Update the link to Issue.
-    - Update `username` to the user name or organization.
-    - Update `package_name` to the name of the package.
-
-Remove the comment when this is done.
--->
-
-- Have a question, bug report, or feature suggestion? [Open an issue](https://github.com/username/package_name/issues/new/choose) and describe your idea clearly.
+- Have a question, bug report, or feature suggestion? [Open an issue](https://github.com/isaac-cf-wong/calsync/issues/new/choose) and describe your idea clearly.
 - Check for existing issues before opening a new one.
 
 2. Fork and Clone the Repository
 
-<!--
-- Update the link to Issue.
-    - Update `username` to the user name or organization.
-    - Update `package_name` to the name of the package.
-
-Remove the comment when this is done.
--->
-
 ```shell
-git clone git@github.com:<username>/package_name.git
+git clone git@github.com:<username>/calsync.git
 cd package_name
 ```
 
@@ -99,22 +71,10 @@ The pull request titles should match the [Conventional Commits spec](https://www
 
 ## 📜 Licensing
 
-<!--
-Update the statement if a different license is used.
-
-Remove the comment when this is done.
--->
-
 By contributing, you agree that your contributions will be licensed under the project’s MIT License.
 
 ---
 
-<!--
-Update package_name to the name of the package.
-
-Remove the comment when this is done.
--->
-
-Thanks again for being part of the package_name community!
+Thanks again for being part of the calsync community!
 
 ---

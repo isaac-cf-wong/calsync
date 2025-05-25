@@ -3,11 +3,11 @@ requires = ["flit_core >=2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name =  "package_name"
+name =  "calsync"
 authors = [
-    {name = "Your name", email = "your@email.com"},
+    {name = "Isaac C. F. Wong", email = "isaac.cf.wong@gmail.com"},
 ]
-description = "Sample Python Project for creating a new Python Module"
+description = "A Python package to synchronize Git due dates with your calendar."
 readme = "README.md"
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -53,14 +53,14 @@ dev = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/isaac-cf-wong/python-package-template/tree/main#readme"
-Source = "https://github.com/isaac-cf-wong/python-package-template"
-Tracker = "https://github.com/isaac-cf-wong/python-package-template/issues"
-Home = "https://github.com/isaac-cf-wong/python-package-template"
-"Release Notes" = "https://github.com/isaac-cf-wong/python-package-template/releases"
+Documentation = "https://isaac-cf-wong.github.io/calsync"
+Source = "https://github.com/isaac-cf-wong/calsync"
+Tracker = "https://github.com/isaac-cf-wong/calsync/issues"
+Home = "https://github.com/isaac-cf-wong/calsync"
+"Release Notes" = "https://github.com/isaac-cf-wong/calsync/releases"
 
 [tool.flit.module]
-name = "package_name"
+name = "calsync"
 
 [tool.bandit]
 exclude_dirs = ["build","dist","tests","scripts"]
